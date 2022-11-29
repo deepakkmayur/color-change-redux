@@ -1,0 +1,29 @@
+.div{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+
+.orange{
+   background-color: orange;
+   color: black;
+   width: 200px;
+   height: 200px;
+   border-radius: 50px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+
+.blue{
+   background-color:blue;
+   color:white;
+   width: 200px;
+   height: 200px;
+   border-radius: 50px; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
